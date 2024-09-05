@@ -12,6 +12,7 @@
   "dependencies": {
     "@nuxthub/core": "^0.7.9",
     "nuxt": "^3.13.0",
-    "vue": "latest"
+    "vue": "latest",
+    "vue-router": "^4.4.3"
   }
 }
